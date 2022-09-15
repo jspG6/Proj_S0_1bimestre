@@ -3,7 +3,7 @@
                 -->  João Pedro de Souza Cardoso Gama
                 -->  TIA:32155247
 
-#Levando em consideração o problema computacional proposto, responda á seguinte questão:
+Levando em consideração o problema computacional proposto, responda á seguinte questão:
 
                  a) Implemente uma possível solução para o problema do jantar dos filósofos;
 
